@@ -1,0 +1,32 @@
+#body1{
+        background-color:cyan;
+		font-size:24pt;
+		text-align:left;
+		
+		}
+#body2{
+	
+	   background-color:teal;
+	   font-size:24pt;
+	   text-align:left;
+}
+a {
+  background-color: red;
+  color: black;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+a:active {
+  background-color: white;
+}
+
+a:visited {
+  background-color: gray;
+}
+	
